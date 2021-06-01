@@ -1,0 +1,39 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch cancellare",
+            "request": "launch",
+            "mainClass": "cancellare",
+            "projectName": "Java1_3_51b9bfea",
+            "args": "PupponeCazzare"
+
+        },
+        {
+            "type": "java",
+            "name": "Launch with Arguments Prompt",
+            "request": "launch",
+            "mainClass": "Prog1_3_3",
+            "args": "10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "Prog1_3_3",
+            "args": "10"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prog1_3_3",
+            "request": "launch",
+            "mainClass": "Prog1_3_3",
+            "projectName": "Java1_3_51b9bfea",
+            "args": "10"
+        }
+    ]
+}
