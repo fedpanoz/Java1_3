@@ -2,17 +2,32 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch DivisionPattern",
+            "request": "launch",
+            "mainClass": "DivisionPattern",
+            "projectName": "Java1_3_51b9bfea",
+            "args": "5"
+        },
+        {
+            "type": "java",
+            "name": "Launch with Arguments Prompt",
+            "request": "launch",
+            "mainClass": "DivisionPattern",
+            "args": "5"
+        },
+        {
+            "type": "java",
             "name": "Launch with Arguments Prompt",
             "request": "launch",
             "mainClass": "Prog1_3_3",
             "args": "12"
         },
-    {
-        "type": "java",
-        "name": "Launch with Arguments Prompt",
-        "request": "launch",
-        "mainClass": "cancellare",
-        "args": "pippo"
-    }
+        {
+            "type": "java",
+            "name": "Launch with Arguments Prompt",
+            "request": "launch",
+            "mainClass": "cancellare",
+            "args": "pippo"
+        }
     ]
 }
