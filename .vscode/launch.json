@@ -6,15 +6,9 @@
             "request": "launch",
             "mainClass": "DivisionPattern",
             "projectName": "Java1_3_51b9bfea",
-            "args": "5"
+            "args": "20"
         },
-        {
-            "type": "java",
-            "name": "Launch with Arguments Prompt",
-            "request": "launch",
-            "mainClass": "DivisionPattern",
-            "args": "5"
-        },
+        
         {
             "type": "java",
             "name": "Launch with Arguments Prompt",
