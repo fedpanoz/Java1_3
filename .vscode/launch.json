@@ -2,6 +2,14 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SquareRootEmproved",
+            "request": "launch",
+            "mainClass": "SquareRootEmproved",
+            "projectName": "Java1_3_51b9bfea",
+            "args": "9"
+        },
+        {
+            "type": "java",
             "name": "Launch SquareRoot",
             "request": "launch",
             "mainClass": "SquareRoot",
