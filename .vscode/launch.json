@@ -2,6 +2,14 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BinaryConversion",
+            "request": "launch",
+            "mainClass": "BinaryConversion",
+            "projectName": "Java1_3_51b9bfea",
+            "args": "19"
+        },
+        {
+            "type": "java",
             "name": "Launch SquareRootEmproved",
             "request": "launch",
             "mainClass": "SquareRootEmproved",
