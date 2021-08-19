@@ -9,10 +9,8 @@ public class BinaryConversion {
         }
         while(power > 0){
             if (num < power){
-                System.out.print(0);
-            }
-            else{
-                System.out.print(1);
+                System.out.print(0);}
+            else{System.out.print(1);
                 num = num - power;
                 
                 
