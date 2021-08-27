@@ -8,6 +8,10 @@ public class Program1_3_9 {
                 System.out.print(factor + " ");
             }
         }
+        if (n > 1){
+            System.out.print(n);
+        }
+        System.out.println();
     }
 
 }
