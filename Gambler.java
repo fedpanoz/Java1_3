@@ -1,5 +1,5 @@
 /*Gambler's ruin */
-public class Prog1_3_8 {
+public class Gambler {
     public static void main(String[] args){
         int stake = Integer.parseInt(args[0]);
         int goal = Integer.parseInt(args[1]);
