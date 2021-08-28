@@ -1,0 +1,58 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch BinaryConversion",
+            "request": "launch",
+            "mainClass": "BinaryConversion",
+            "projectName": "Java1_3_51b9bfea",
+            "args": "19"
+        },
+        {
+            "type": "java",
+            "name": "Launch SquareRootEmproved",
+            "request": "launch",
+            "mainClass": "SquareRootEmproved",
+            "projectName": "Java1_3_51b9bfea",
+            "args": "9"
+        },
+        {
+            "type": "java",
+            "name": "Launch SquareRoot",
+            "request": "launch",
+            "mainClass": "SquareRoot",
+            "projectName": "Java1_3_51b9bfea",
+            "args": "9"
+        },
+        {
+            "type": "java",
+            "name": "Launch HarmonicNumbers",
+            "request": "launch",
+            "mainClass": "HarmonicNumbers",
+            "projectName": "Java1_3_51b9bfea",
+            "args": "50"
+        },
+        {
+            "type": "java",
+            "name": "Launch DivisionPattern",
+            "request": "launch",
+            "mainClass": "DivisionPattern",
+            "projectName": "Java1_3_51b9bfea",
+            "args": "20"
+        },
+        {
+            "type": "java",
+            "name": "Launch with Arguments Prompt",
+            "request": "launch",
+            "mainClass": "Prog1_3_3",
+            "args": "12"
+        },
+        {
+            "type": "java",
+            "name": "Launch with Arguments Prompt",
+            "request": "launch",
+            "mainClass": "cancellare",
+            "args": "pippo"
+        }
+    ]
+}
