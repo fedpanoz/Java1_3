@@ -2,6 +2,14 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch DaButtare",
+            "request": "launch",
+            "mainClass": "DaButtare",
+            "projectName": "Java1_3_51b9bfea",
+            "args": "3.0"
+        },
+        {
+            "type": "java",
             "name": "Launch BinaryConversion",
             "request": "launch",
             "mainClass": "BinaryConversion",
