@@ -3,10 +3,10 @@ public class PowerOfTwoMine {
         int n = Integer.parseInt(args[0]);
         int i = 0;
         int power = 1;
-        while(power < n){
+        while(i <= n){
+            System.out.println(i + "\t" + power);
             power *= 2 ;
             i += 1;
-            System.out.println(i + "\t" + power);
         }
     }
 }
